@@ -1,2 +1,3 @@
 # Cofee_Menu
-Cofee Menu
+
+Starting my first project, a Cofee Menu.
